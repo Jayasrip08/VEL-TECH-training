@@ -1,8 +1,8 @@
-# Innoloft Ventures — 20-Day Internship Program
+# Innolift Ventures — 20-Day Internship Program (2026)
 
 ## Welcome to VEL TECH Training Repository
 
-This is the central repository for the **Innoloft Ventures 20-day internship program** at **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai**.
+This is the central repository for the **Innolift Ventures 20-day internship program (2026)** at **Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai**.
 
 Every student in this program will build a **live deployed AI-powered web application** over 20 days of hands-on training across 4 progressive tracks.
 
@@ -12,12 +12,12 @@ Every student in this program will build a **live deployed AI-powered web applic
 
 **What?** A 20-day intensive internship program in AI, Machine Learning, and Web Development.
 
-**Who?** 17 engineering students from Vel Tech University, mentored by 4 industry professionals from Innoloft Ventures.
+**Who?** 17 engineering students from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai, mentored by 4 industry professionals from Innolift Ventures.
 
 **Outcome?** Each student walks away with:
 - ✅ A live deployed AI web application with a public URL
 - ✅ A GitHub portfolio with 20 days of consistent commits
-- ✅ Internship completion certificate from Innoloft Ventures
+- ✅ Internship completion certificate from Innolift Ventures
 - ✅ LinkedIn-ready project showcase
 - ✅ Real hands-on industry experience
 
@@ -238,7 +238,7 @@ VEL-TECH-training/
 |---------|---------|
 | **Live Web App** | AI-powered application deployed on the internet with a public URL |
 | **GitHub Portfolio** | 20 days of consistent commits showing your complete learning journey |
-| **Internship Certificate** | Issued by Innoloft Ventures (if 85%+ attendance + 80% tasks) |
+| **Internship Certificate** | Issued by Innolift Ventures (if 85%+ attendance + 80% tasks) |
 | **LinkedIn Content** | Project showcase with live app URL |
 | **Demo Video** | 2-minute recorded demo of your working application |
 | **Resume Skill** | Proven hands-on experience in Python, ML, Flask, and Cloud Deployment |
@@ -270,7 +270,7 @@ VEL-TECH-training/
 | **Total Students** | 17 |
 | **Total Mentors** | 4 |
 | **Program Duration** | 20 working days |
-| **Management Platform** | InnoTrack by Innoloft Ventures |
+| **Management Platform** | InnoTrack by Innolift Ventures |
 | **Hosting Platform** | Render or Railway (free tier) |
 | **Certificate Requirement** | 85% attendance + 80% task completion |
 
@@ -290,4 +290,4 @@ Your learning journey starts on **Day 1** with **Track 1 — Python + ML Basics*
 
 ---
 
-**Built by students, for students. Powered by Innoloft Ventures. 🎓**
+**Built by students, for students. Powered by Innolift Ventures. 🎓**
