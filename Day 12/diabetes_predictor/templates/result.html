@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Prediction Result</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<div class="result-card">
+
+    <h1>{{ name }}</h1>
+
+    <h2>{{ risk }}</h2>
+
+    <div class="confidence">
+
+        Confidence:
+        {{ confidence }}%
+
+    </div>
+
+    <hr>
+
+    <p>Age: {{ age }}</p>
+
+    <p>Glucose: {{ glucose }}</p>
+
+    <p>Blood Pressure: {{ blood_pressure }}</p>
+
+    <p>BMI: {{ bmi }}</p>
+
+    <br>
+
+    <a href="/assessment">
+
+        <button>
+            New Assessment
+        </button>
+
+    </a>
+
+</div>
+
+</body>
+</html>

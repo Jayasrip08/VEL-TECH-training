@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Assessment</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<nav>
+
+    <h2>🩺 Diabetes Predictor</h2>
+
+    <div>
+
+        <a href="/">Home</a>
+        <a href="/assessment">Assessment</a>
+        <a href="/history">History</a>
+
+    </div>
+
+</nav>
+
+<div class="card">
+
+    <h2>Health Assessment</h2>
+
+    <form action="/predict" method="POST">
+
+        <input
+        type="text"
+        name="name"
+        placeholder="Full Name"
+        required>
+
+        <input
+        type="number"
+        name="age"
+        placeholder="Age"
+        required>
+
+        <input
+        type="number"
+        name="glucose"
+        placeholder="Glucose"
+        required>
+
+        <input
+        type="number"
+        name="blood_pressure"
+        placeholder="Blood Pressure"
+        required>
+
+        <input
+        type="number"
+        step="0.1"
+        name="bmi"
+        placeholder="BMI"
+        required>
+
+        <button type="submit">
+
+            Predict Risk
+
+        </button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
